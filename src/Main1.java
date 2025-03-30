@@ -1,5 +1,5 @@
 /**
- * Problem1: This class implements a solution to find the minimum
+ * Main1: This class implements a solution to find the minimum
  * element in an array using recursion.
  */
 public class Main1 {
