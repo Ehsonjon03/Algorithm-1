@@ -37,7 +37,7 @@ public class Main2 {
     }
 
     /**
-     * Entry point – Executes mean calculation and tracks execution time.
+     * Entry point – Executes mean calculations and tracks execution time.
      */
     public static void main(String[] args) {
         // Initialize test array
