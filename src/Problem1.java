@@ -38,7 +38,7 @@ public class Problem1 {
         // Determine the total number of elements in the array
         int n = array.length;
 
-        // Record the start time before invoking the recursive method
+        // Record the start time before invoking the recursive meth
         long startTime = System.nanoTime();
 
         // Call the recursive method to find the minimum value
