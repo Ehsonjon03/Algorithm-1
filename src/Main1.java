@@ -2,7 +2,7 @@
  * Problem1: This class implements a solution to find the minimum
  * element in an array using recursion.
  */
-public class Problem1 {
+public class Main1 {
 
     /**
      * Recursively searches for the minimum element in the array.
